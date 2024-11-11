@@ -12,9 +12,8 @@
 
 ## 预览
 
-- [https://nianbroken.github.io/Firework_Simulator/](https://nianbroken.github.io/Firework_Simulator/ "https://nianbroken.github.io/Firework_Simulator/")
+- [https://jiangjinrui1.github.io/Firework_Simulator1/](https://jiangjinrui1.github.io/Firework_Simulator1/ "https://jiangjinrui1.github.io/Firework_Simulator1/")
 
-- [https://fireworks.nianbroken.top/](https://fireworks.nianbroken.top/ "https://fireworks.nianbroken.top/")
 
 ## 文字烟花
 
